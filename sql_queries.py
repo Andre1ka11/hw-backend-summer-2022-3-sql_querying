@@ -31,6 +31,7 @@ HAVING COUNT(*) < 50
 ORDER BY count DESC
 LIMIT 3;
 """
+
 #  flight_no | count
 # -----------+-------
 #  PG0260    |    27
